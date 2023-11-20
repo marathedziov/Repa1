@@ -3,6 +3,9 @@ def main():
     print('My first git program')
     print(13)
 
+def marat():
+    print("marat")
+
 
 if __name__ == '__main__':
     main()
